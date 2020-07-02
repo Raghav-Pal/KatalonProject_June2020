@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EnvDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aeabc998-33d0-4eaa-8845-65fc4138f996</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.URL</defaultValue>
+      <description></description>
+      <id>6c00860a-f4b1-42c0-a1f8-70e8caee3d5a</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.USERNAME</defaultValue>
+      <description></description>
+      <id>fd3ec0d5-aecc-4fac-aa04-db5431f37f27</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.PASSWORD</defaultValue>
+      <description></description>
+      <id>412b0719-b274-472c-a74a-bb45745ab92e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointOne</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/LoginData</source-url>
+   </source-info>
+   <taken-date>2020-07-02T14:53:59.948</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "admin",
+      "checked": true
+    },
+    {
+      "value": "admin123",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "user1",
+      "checked": true
+    },
+    {
+      "value": "pass1",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
