@@ -13,13 +13,13 @@
    <testCaseLink>
       <guid>63dd2458-d4f2-452a-875a-bc7baf1781dd</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Day1/DemoTest</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>3b956cd5-8bbc-4901-89e7-263d88628c6e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Day1/ManualModeDemo</testCaseId>
    </testCaseLink>
    <testCaseLink>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BDDDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc61397e-399f-430e-a9f3-91a2eac1b2b6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b4c18a2e-263b-4c4a-a85d-152e2022aacc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>50096e22-b3e7-46f4-8dd3-b75cc3100f3a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,101 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 14,
+        "name": "Check login with valid credentials",
+        "description": "",
+        "id": "validate-login-functionality;check-login-with-valid-credentials;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2898749700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on login page",
+            "match": {
+              "location": "LoginSteps.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1350145800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enters Admin and admin123",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 12
+                },
+                {
+                  "val": "admin123",
+                  "offset": 22
+                }
+              ],
+              "location": "LoginSteps.user_enters_username_and_password(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1222883800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "clicks on login button",
+            "match": {
+              "location": "LoginSteps.clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1571021800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user is navigated to the home page",
+            "match": {
+              "location": "LoginSteps.user_is_navigated_to_the_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          },
+          {
+            "name": "@reg"
+          },
+          {
+            "name": "@valid"
+          }
+        ]
+      }
+    ],
+    "name": "Validate login functionality",
+    "description": "",
+    "id": "validate-login-functionality",
+    "keyword": "Feature",
+    "uri": "Include/features/Login.feature",
+    "tags": [
+      {
+        "name": "@smoke",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>BDDDemo</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>5</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>72febaee-f01d-4080-8c28-d16a9d034fcc</testSuiteGuid>
+   <testCaseLink>
+      <guid>c84d89ea-9808-4ab3-abe8-117e6990d339</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Day4/BDDDemo</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4ef07b75-e3c9-4e33-bc4b-f044e918f6c3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginData</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>4ef07b75-e3c9-4e33-bc4b-f044e918f6c3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>b4c18a2e-263b-4c4a-a85d-152e2022aacc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4ef07b75-e3c9-4e33-bc4b-f044e918f6c3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>50096e22-b3e7-46f4-8dd3-b75cc3100f3a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
